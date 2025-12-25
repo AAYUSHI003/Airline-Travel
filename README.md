@@ -1,0 +1,1 @@
+The Travel Website is a responsive front-end web application designed to showcase travel destinations and provide users with an engaging browsing experience. The project focuses on clean UI design, user interaction, and responsive layouts using core web technologies.
